@@ -58,8 +58,9 @@ of his being stationed at any military or naval place within this state.
    of person elected
 
 Section 7. In all elections held by the people in this state,
-the person, or persons, receiving the highest number of legal votes shall be
-declared elected.
+electors shall be permitted to rank the candidates in order of preference,
+and the winner of the election shall be determinted by the method of instant
+runoff voting.
 
 8. Qualifications for voters at school elections
 
@@ -73,16 +74,20 @@ people, the legislature shall provide for placing the names of candidates for
 United States senator on the official ballot at the general election next
 preceding the election of a United States senator.
 
-10. Direct primary election law
+10. Open primary election law
 
-Section 10. The Legislature shall enact a direct primary
+Section 10. The Legislature shall enact an open primary
 election law, which shall provide for the nomination of candidates for all
 elective State, county, and city offices, including candidates for United
-States Senator and for Representative in Congress. Any person who is
-registered as no party preference or independent as the party preference or
-who is registered with a political party that is not qualified for
-representation on the ballot may vote in the primary election of any one of
-the political parties that is qualified for the ballot.
+States Senator and for Representative in Congress. Any candidate qualified
+for the ballot shall be permitted to choose whether or not they desire their
+party affiliation to be indicated along with their name on all ballots used
+in their election. The party affiliation of a candiate shall not be a factor
+used in determining their qualification for election. In all primary elections,
+five candidates shall be chosen by the electors to continue to the general
+election. In the case that there are less than five qualified candidates, as
+many qualified candidates as exist shall be permitted to continue to the
+general election.
 
 11. General elections; date
 
@@ -96,7 +101,43 @@ biennially thereafter.
 
 Section 12. There shall be enacted registration and other laws
 to secure the purity of elections and guard against abuses of the elective
-franchise.
+franchise. 
+
+12.1 Automatic registration of qualified electors
+
+Section 12.1. The state shall be responsible for ensuring that all qualified
+electors shall be automatically registered as voters at the earliest possibility
+following their becoming eligible. All qualified electors shall retain the ability
+to waive their right to automatic registration to vote any time they desire,
+provided they communicate their preference to do so at such time as they would be
+automatically registered. To ensure this ability, the state is required to inform
+any eligible voter before they are automatically registered and give them the option
+to refuse.
+
+12.2 Maintainence of registration of voters
+
+Section 12.2 The state shall be responsible for ensuring that no persons ineligble
+to be electors shall be registered as voters, and to this end will carry out frequent
+reviews of registered voters, so long as such a review will not interfere with the
+ability of ability of an eligible voter to be able to register and vote as otherwise
+possible.
+
+12.3 Supersession of registration by the right to vote
+
+Section 12.3. No qualified elector shall be denied their right to vote as a
+result of their lack of registration prior to attempting to cast their vote,
+but shall instead be afforded the ability to register as a voter at such a 
+time as they would be permitted to cast their vote.
+
+12.4 Ability to track vote and registration status
+
+Section 12.4. In order to ensure the security and integrity of the elective franchise,
+the legislature shall enact and maintain laws providing for the ability of all qualified 
+electors to quickly and easily view and update their voter registration status and 
+details. as well as the capability of all qualifies electors to quickly and easliy view,
+the status of and submit inquiries about the status of all votes they have cast through
+any method in all elections held by the people in this state. 
+
 
 13. Submission of questions upon bond issues or
     special assessments
@@ -106,7 +147,7 @@ shall be submitted to the vote of real property tax payers, who shall also in
 all respects be qualified electors of this state, and of the political
 subdivisions thereof affected by such question.
 
-14. Fee for placing candidate's name on ballot
+14.  Fee for placing candidate's name on ballot
 
 Section 14. No fee shall ever be required in order to have the
 name of any candidate placed on the official ballot for any election or
@@ -122,12 +163,13 @@ political division or municipality in which such person shall be elected.
 16. Campaign contributions and expenditures;
     publicity
 
-Section 16. The legislature, at its first session, shall enact
-a law providing for a general publicity, before and after election, of all
+Section 16. The legislature shall be responsible for enacting and maintaining
+law providing for a general publicity, before and after election, of all
 campaign contributions to, and expenditures of campaign committees and
-candidates for public office.
+candidates for public office, inclduding the actual source of such
+contributions.
 
-17. Vacancy in Congress
+1.  Vacancy in Congress
 
 Section 17. There shall be a primary and general election as prescribed by law, which shall provide for nomination and election of a candidate for United States Senator and for Representative in Congress when a vacancy occurs through resignation or any other cause.
 
@@ -147,3 +189,10 @@ United States congress who serves at least one half of a term of office shall
 be considered to have served a term in that office for purposes of this
 section. For purposes of this section, terms beginning before January 1, 1993
 shall not be considered.
+
+19.  Right to acessible elections
+
+Section 19. In all elections held by the people in this state, electors shall
+have the right to vote in a manner convenient and acessible to them, such that
+the difficulty of the manner of casting a vote does not prohibit or deter any
+elector from the casting of their vote.
