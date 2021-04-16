@@ -103,7 +103,6 @@ Section 12. There shall be enacted registration and other laws
 to secure the purity of elections and guard against abuses of the elective
 franchise. 
 
-<<<<<<< HEAD
 12.1 Automatic registration of qualified electors
 
 Section 12.1. The state shall be responsible for ensuring that all qualified
@@ -126,16 +125,10 @@ possible.
 12.3 Supersession of registration by the right to vote
 
 Section 12.3. No qualified elector shall be denied their right to vote as a
-=======
-12.1 Supersession of registration by the right to vote
-
-Section 12.1. No qualified elector shall be denied their right to vote as a
->>>>>>> b6b77bfe95af766f04bba2e69477dbc87b871c1e
 result of their lack of registration prior to attempting to cast their vote,
 but shall instead be afforded the ability to register as a voter at such a 
 time as they would be permitted to cast their vote.
 
-<<<<<<< HEAD
 12.4 Ability to track vote and registration status
 
 Section 12.4. In order to ensure the security and integrity of the elective franchise,
@@ -145,8 +138,6 @@ details. as well as the capability of all qualifies electors to quickly and easl
 the status of and submit inquiries about the status of all votes they have cast through
 any method in all elections held by the people in this state. 
 
-=======
->>>>>>> b6b77bfe95af766f04bba2e69477dbc87b871c1e
 
 13. Submission of questions upon bond issues or
     special assessments
@@ -203,10 +194,5 @@ shall not be considered.
 
 Section 19. In all elections held by the people in this state, electors shall
 have the right to vote in a manner convenient and acessible to them, such that
-<<<<<<< HEAD
 the difficulty of the manner of casting a vote does not prohibit or deter any
 elector from the casting of their vote.
-=======
-the difficulty of the manner of casting a vote does not prohibit any elector
-from the casting of their vote.
->>>>>>> b6b77bfe95af766f04bba2e69477dbc87b871c1e
